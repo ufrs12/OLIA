@@ -1,7 +1,8 @@
 # OLIA
  Open Logical Industrial Architecture  
 
-To implement this project, Armbian images are being developed in [this repository](https://github.com/ufrs12/OLIA-Linux-Armbian). And also a collector of these images in [this repository](https://github.com/ufrs12/OLIA-Linux-Armbian-builder).
+To implement this project, Armbian images are being developed in [this repository](https://github.com/ufrs12/OLIA-Linux-Armbian). And also a collector of these images in [this repository](https://github.com/ufrs12/OLIA-Linux-Armbian-builder).  
+For discussions, welcome to [Telegram chat](https://t.me/oliaint).
 
 
 Most of the work on this project was carried out in Russian. Now we are making English the main language. We will gradually translate what has already been done. For those who are not confused by the Russian language, I provide links to materials in Russian:   
