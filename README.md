@@ -1,6 +1,9 @@
 # OLIA
  Open Logical Industrial Architecture  
 
+ OLIA is the main architecture of the [OLxA stack](https://github.com/ufrs12/OLxA) of architectures  
+ 
+
 To implement this project, Armbian images are being developed in [this repository](https://github.com/ufrs12/OLIA-Linux-Armbian). And also a collector of these images in [this repository](https://github.com/ufrs12/OLIA-Linux-Armbian-builder).  
 For discussions, welcome to [Telegram chat](https://t.me/oliaint).
 
